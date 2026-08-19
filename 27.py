@@ -37,3 +37,12 @@ for asig in usuario:
     print(f" se le asigna a {nombreg} identificado con cedula {cedulag} el usuario es {usuario} y contraseña {contraseña} ")
 
 
+
+
+
+
+
+
+#prueba 
+
+
