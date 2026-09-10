@@ -17,6 +17,12 @@ while True:
     elif estado==2:
         pri="media"
         media.append((pasiente,pri))
-        
-   
-        
+    elif estado==3:
+        pri="alta"
+        alta.append((pasiente,pri))
+    elif estado==4:
+        pri="emergencia"
+        emer.append((pasiente,pri))
+    else:
+        print("opcion no valida")
+
